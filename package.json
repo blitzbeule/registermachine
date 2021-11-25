@@ -1,0 +1,23 @@
+{
+  "name": "@blitzbeule/registermachine",
+  "version": "0.1.0",
+  "description": "A register-machine low programming language described in readme",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blitzbeule/registermachine.git"
+  },
+  "author": "blitzbeule",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/blitzbeule/registermachine/issues"
+  },
+  "homepage": "https://github.com/blitzbeule/registermachine#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.10",
+    "typescript": "^4.5.2"
+  }
+}
